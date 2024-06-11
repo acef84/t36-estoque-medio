@@ -1,0 +1,23 @@
+body {
+    font-family: fantasy;
+    background-color: rgb(80, 80, 80);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    color: white;
+    padding-top: 30px;
+}
+
+.ajuste {
+    background-color: rgb(100, 100, 100);
+    border-radius: 5px 40px;
+    padding: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+    box-shadow:  rgb(0, 0, 0) 20px 10px 20px; 
+    border: 5px solid rgb(124, 124, 124);
+}
+
+h1 {
+    color: rgb(187, 255, 0);
+}
